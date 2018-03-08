@@ -1,0 +1,6 @@
+com\web\ssh\service\impl\ProductServiceImpl.class
+com\web\ssh\service\ProductService.class
+com\web\ssh\model\Product.class
+com\web\ssh\action\ProductAction.class
+com\web\ssh\dao\impl\ProductDaoImpl.class
+com\web\ssh\dao\ProductDao.class
